@@ -1,0 +1,21 @@
+.box {
+    background-color: #f6f7f9;
+    border: 1px solid #dddfe2;
+    border-radius: 3px;
+    box-shadow: none;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.padding30 {
+    padding: 1.875rem;
+}
+
+.profile-img{
+    margin-top: -5px;
+    margin-right: 5px;
+    float: left;
+    background-size: auto 100%; /* Interchange this value depending on prefering width vs. height */
+    width: 30px;
+    height: 30px;
+}
